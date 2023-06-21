@@ -1,1 +1,2 @@
-custom-blocklist.txt
+custom_blocklist.txt
+.venv/
