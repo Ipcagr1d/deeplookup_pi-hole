@@ -1,0 +1,1 @@
+git clone https://github.com/chrmor/DGA_domains_dataset.git

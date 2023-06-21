@@ -62,7 +62,12 @@ The PiHole Predict project has the following dependencies, which are automatical
 - pandas
 - scikit-learn
 
-## 5. Contributing
+## 5. Benchmark Data & Tools Used
+
+- [deeplookup](https://github.com/ybubnov/deep-lookup)
+- [DGA dataset](https://github.com/chrmor/DGA_domains_dataset/tree/master) from Cucchiarelli, A., Morbidoni, C., Spalazzi, L., Baldi, M., Algorithmically generated malicious domain names detection based on n-grams features (2021) Expert Systems with Applications, 170, art. no. 114551
+
+## 6. Contributing
 
 Contributions to the PiHole Predict project are welcome. If you encounter any issues or have suggestions for improvements, please submit them through the project's GitHub repository.
 
