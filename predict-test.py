@@ -7,7 +7,7 @@ def get_potential_dga_domains():
     dl = Resolver()
 
     # Open the domains.csv file
-    with open('dga_sample_10k.csv', 'r', encoding='utf-8') as domains_file:
+    with open('dga_domains_dataset/domains.csv', 'r', encoding='utf-8') as domains_file:
         # Create a CSV reader object
         reader = csv.reader(domains_file)
         # Read all the rows from the CSV file
