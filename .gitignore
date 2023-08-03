@@ -1,3 +1,4 @@
 custom_blocklist.txt
 DGA_domains_dataset/
+models/
 .venv/
