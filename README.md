@@ -10,8 +10,9 @@ This project aims to enhance the Pi-hole ad-blocking software by leveraging mach
 2. Usage
 3. Files
 4. Dependencies
-5. Contributing
-6. License
+5. Benchmark Data & Tools Used
+6. Contributing
+7. License
 
 ## 1. Installation
 
@@ -70,6 +71,6 @@ The PiHole Predict project has the following dependencies, which are automatical
 
 Contributions to the PiHole Predict project are welcome. If you encounter any issues or have suggestions for improvements, please submit them through the project's GitHub repository.
 
-## 6. License
+## 7. License
 
 The PiHole Predict project is licensed under the [GNU General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html). Please refer to the project's repository for more information.
